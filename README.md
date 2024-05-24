@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm { 
-                                Suresh K Kuppusamy 
-                                                      }</h1>
+<h1 align="center">Hi 👋, I'm { Suresh K Kuppusamy }</h1>
 <h3 align="center">A passionate DevOps/Cloud Professional from Silicon Valley, CA, USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshkcloud&label=Profile%20views&color=0e75b6&style=flat" alt="sureshkcloud" /> </p>
