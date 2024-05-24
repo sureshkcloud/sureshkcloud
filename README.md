@@ -51,6 +51,7 @@
 </head>
 <body>
     <pre id="ascii-art"></pre>
+
     <script>
         const frames = [
             `
@@ -100,7 +101,9 @@
                |
             `
         ];
+
         const asciiArt = document.getElementById('ascii-art');
+
         let frameIndex = 0;
         setInterval(() => {
             asciiArt.textContent = frames[frameIndex];
