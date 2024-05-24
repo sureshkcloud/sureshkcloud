@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm { Suresh K Kuppusamy }</h1>
 <h3 align="center">A passionate DevOps/Cloud Professional from Silicon Valley, CA, USA</h3>
-https://media.licdn.com/dms/image/D4E16AQGw0cyAphUxew/profile-displaybackgroundimage-shrink_350_1400/0/1713865222308?e=1721865600&v=beta&t=XWBaEPzNotJPKSF2G6nR7Ag2qsJ2uIxUC6w4ccmdxl8
+‹p align="left"> <img src="https://media.licdn.com/dms/image/D4E16AQGw0cyAphUxew/profile-displaybackgroundimage-shrink_350_1400/0/1713865222308?e=1721865600&v=beta&t=XWBaEPzNotJPKSF2G6nR7Ag2qsJ2uIxUC6w4ccmdxl8" /> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sureshkcloud&label=Profile%20views&color=0e75b6&style=flat" alt="sureshkcloud" /> </p>
 
 - 🔭 I’m currently working on [Project Python RBAC](https://github.com/sureshkcloud/ProjectPythonRBAC)
